@@ -1,2 +1,3 @@
 # hello-world
-The test repository
+So this is the first edit to understand how branches and stuff work
+
